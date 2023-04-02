@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "Al Toke Precios",
+    "slug": "AlTokePrecios",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "packagerOpts": {
+      "config": "./metro.config.js",
+      "sourceExts": [
+        "js",
+        "jsx",
+        "css"
+      ]
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "permissions": [
+        "ACCESS_FINE_LOCATION"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.nicosanchez.AlTokePrecios"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "57d42cb4-2114-4747-9700-2310be76ce3c"
+      }
+    }
+  }
+}

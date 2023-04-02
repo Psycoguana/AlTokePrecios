@@ -1,0 +1,206 @@
+{
+    "maxLimitPermitido": 50,
+    "producto": {
+        "cantSucursalesDisponible": null,
+        "id": "7790520997562",
+        "marca": "RAID",
+        "nombre": "Mata Moscas y Mosquitos sin Olor en Aerosol Raid 360 Ml",
+        "precioMax": null,
+        "precioMin": null,
+        "precio_bulto_max_con_iva": null,
+        "precio_bulto_max_sin_iva": null,
+        "precio_bulto_min_con_iva": null,
+        "precio_bulto_min_sin_iva": null,
+        "precio_unitario_bulto_max_con_iva": null,
+        "precio_unitario_bulto_max_sin_iva": null,
+        "precio_unitario_bulto_min_con_iva": null,
+        "precio_unitario_bulto_min_sin_iva": null,
+        "presentacion": "360.0 ml"
+    },
+    "status": 200,
+    "sucursales": [
+        {
+            "banderaId": "1",
+            "comercioId": "15",
+            "id": "169",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "2",
+            "comercioId": "3001",
+            "id": "185",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "12",
+            "id": "199",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "15",
+            "id": "5280",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "10",
+            "id": "10",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "3",
+            "id": "1425",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "15",
+            "id": "1028",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "3001",
+            "id": "108",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "2",
+            "comercioId": "9",
+            "id": "156",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "3",
+            "comercioId": "9",
+            "id": "5208",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "2003",
+            "id": "7510",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "15",
+            "id": "1026",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "4",
+            "comercioId": "11",
+            "id": "1045",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "3",
+            "comercioId": "10",
+            "id": "439",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "3",
+            "id": "1478",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "9",
+            "id": "155",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "15",
+            "id": "5465",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "9",
+            "id": "164",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "15",
+            "id": "1007",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "15",
+            "id": "1011",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "12",
+            "id": "215",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "19",
+            "id": "03002",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "15",
+            "id": "5318",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "15",
+            "id": "5401",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "2004",
+            "id": "2",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "10",
+            "id": "36",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "2011",
+            "id": "74",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "3",
+            "comercioId": "10",
+            "id": "442",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "1",
+            "comercioId": "15",
+            "id": "98",
+            "message": "La sucursal no contiene el producto."
+        },
+        {
+            "banderaId": "3",
+            "comercioId": "10",
+            "id": "473",
+            "message": "La sucursal no contiene el producto."
+        }
+    ],
+    "sucursalesConProducto": 0,
+    "total": 62,
+    "totalPagina": 30
+}

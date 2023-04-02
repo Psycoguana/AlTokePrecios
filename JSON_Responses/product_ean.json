@@ -1,0 +1,873 @@
+{
+    "status": 200,
+    "totalPagina": 30,
+    "producto": {
+        "precio_unitario_bulto_min_sin_iva": null,
+        "precio_bulto_min_con_iva": null,
+        "precio_unitario_bulto_max_sin_iva": null,
+        "marca": "COCA COLA",
+        "precio_bulto_max_sin_iva": null,
+        "id": "7790895001482",
+        "precio_bulto_min_sin_iva": null,
+        "precioMax": 225,
+        "precio_unitario_bulto_max_con_iva": null,
+        "precioMin": 182,
+        "nombre": "Coca Cola Light 500 Cc",
+        "precio_unitario_bulto_min_con_iva": null,
+        "precio_bulto_max_con_iva": null,
+        "presentacion": "500.0 cc",
+        "cantSucursalesDisponible": 23
+    },
+    "maxLimitPermitido": 50,
+    "sucursalesConProducto": 23,
+    "total": 2113,
+    "sucursales": [
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.6278804",
+            "lng": "-58.6567158",
+            "sucursalNombre": "169 - VILLA TESEI",
+            "id": "169",
+            "sucursalTipo": "Autoservicio",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 182,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Cl Nicolas Repetto 509",
+            "banderaDescripcion": "Supermercados DIA",
+            "localidad": "BUENOS AIRES",
+            "comercioRazonSocial": "DIA Argentina S.A",
+            "comercioId": 15
+        },
+        {
+            "message": "La sucursal no contiene el producto.",
+            "comercioId": "3001",
+            "id": "185",
+            "banderaId": "2"
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.640349",
+            "lng": "-58.655782",
+            "sucursalNombre": "CASTELAR ",
+            "id": "199",
+            "sucursalTipo": "Hipermercado",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "LLEVANDO 6 UNIDADES, PAGA 5 UNIDADES - DEL 06/10/2022 AL 31/10/2022 O HASTA AGOTAR STOCK  DE 9200 UNI",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": 152.83
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 183.4,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "LLEVANDO ESTE ARTICULO, 20% DE DTO CON BCO CIUDAD BS AS - DEL 24/10/2022 AL 24/10/2022 O HASTA AGOTAR STOCK  DE 9200 UNI",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": 146.72
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Santa Rosa 1753",
+            "banderaDescripcion": "COTO CICSA",
+            "localidad": "Castelar",
+            "comercioRazonSocial": "Coto Centro Integral de Comercialización S.A.",
+            "comercioId": 12
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.630469",
+            "lng": "-58.632568",
+            "sucursalNombre": "5280 - HURLINGHAM",
+            "id": "5280",
+            "sucursalTipo": "Autoservicio",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 182,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Av Vergara 1062",
+            "banderaDescripcion": "Supermercados DIA",
+            "localidad": "BUENOS AIRES",
+            "comercioRazonSocial": "DIA Argentina S.A",
+            "comercioId": 15
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.620610",
+            "lng": "-58.633769",
+            "sucursalNombre": "Villa Tesei",
+            "id": "10",
+            "sucursalTipo": "Hipermercado",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 182,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Av. Vergara 1910",
+            "banderaDescripcion": "Hipermercado Carrefour",
+            "localidad": "Hurlingham",
+            "comercioRazonSocial": "INC S.A.",
+            "comercioId": 10
+        },
+        {
+            "message": "La sucursal no contiene el producto.",
+            "comercioId": "3",
+            "id": "1425",
+            "banderaId": "1"
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.608716",
+            "lng": "-58.643543",
+            "sucursalNombre": "1028 - VILLA TESEI",
+            "id": "1028",
+            "sucursalTipo": "Autoservicio",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 182,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Cl Pedro Diaz Esq. El Zorzal 1098",
+            "banderaDescripcion": "Supermercados DIA",
+            "localidad": "BUENOS AIRES",
+            "comercioRazonSocial": "DIA Argentina S.A",
+            "comercioId": 15
+        },
+        {
+            "message": "La sucursal no contiene el producto.",
+            "comercioId": "3001",
+            "id": "108",
+            "banderaId": "1"
+        },
+        {
+            "banderaId": 2,
+            "unidad_venta": "",
+            "lat": "-34.6491",
+            "lng": "-58.6561",
+            "sucursalNombre": "Castelar Norte.",
+            "id": "156",
+            "sucursalTipo": "Supermercado",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 188,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Arias Gobernador Inocendio 3247",
+            "banderaDescripcion": "Disco",
+            "localidad": "CASTELAR",
+            "comercioRazonSocial": "Jumbo Retail Argentina S.A.",
+            "comercioId": 9
+        },
+        {
+            "banderaId": 3,
+            "unidad_venta": "",
+            "lat": "-34.6338",
+            "lng": "-58.6285",
+            "sucursalNombre": "Jumbo Morón",
+            "id": "5208",
+            "sucursalTipo": "Hipermercado",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 188,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Boulevard Rosas Juan Manuel De 658",
+            "banderaDescripcion": "Jumbo",
+            "localidad": "CASTELAR",
+            "comercioRazonSocial": "Jumbo Retail Argentina S.A.",
+            "comercioId": 9
+        },
+        {
+            "message": "La sucursal no contiene el producto.",
+            "comercioId": "2003",
+            "id": "7510",
+            "banderaId": "1"
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.6498757",
+            "lng": "-58.6504339",
+            "sucursalNombre": "1026 - CASTELAR",
+            "id": "1026",
+            "sucursalTipo": "Autoservicio",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 182,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Av Gdor. Inocencio Arias 2983",
+            "banderaDescripcion": "Supermercados DIA",
+            "localidad": "BUENOS AIRES",
+            "comercioRazonSocial": "DIA Argentina S.A",
+            "comercioId": 15
+        },
+        {
+            "banderaId": 4,
+            "unidad_venta": "",
+            "lat": "-34.607497",
+            "lng": "-58.635181",
+            "sucursalNombre": "Hurlimgham II",
+            "id": "1045",
+            "sucursalTipo": "Supermercado",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "16% de descuento llevando 6, promoción válida hasta el 2022-10-31 o hasta agotar stock, o lo que ocurra primero.",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": 152.83
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 183.4,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Av. Gob. Valentín Vergara Esq. Cayetano 2950",
+            "banderaDescripcion": "Mi Changomas",
+            "localidad": "VILLA SANTOS TESEI",
+            "comercioRazonSocial": "Wal Mart Argentina S.R.L.",
+            "comercioId": 11
+        },
+        {
+            "banderaId": 3,
+            "unidad_venta": "",
+            "lat": "-34.651086",
+            "lng": "-58.642884",
+            "sucursalNombre": "Gob. Arias 2420",
+            "id": "439",
+            "sucursalTipo": "Supermercado",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 193,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Gob. Arias 2420",
+            "banderaDescripcion": "Express",
+            "localidad": "Castelar",
+            "comercioRazonSocial": "INC S.A.",
+            "comercioId": 10
+        },
+        {
+            "message": "La sucursal no contiene el producto.",
+            "comercioId": "3",
+            "id": "1478",
+            "banderaId": "1"
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.6561",
+            "lng": "-58.6519",
+            "sucursalNombre": "Castelar Sur.",
+            "id": "155",
+            "sucursalTipo": "Supermercado",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 184,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Avenida Zeballos Dr. Estanislao 3154",
+            "banderaDescripcion": "Vea",
+            "localidad": "CASTELAR",
+            "comercioRazonSocial": "Jumbo Retail Argentina S.A.",
+            "comercioId": 9
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.603212",
+            "lng": "-58.635229",
+            "sucursalNombre": "5465 - HURLINGHAM",
+            "id": "5465",
+            "sucursalTipo": "Autoservicio",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 182,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Av Gobernador Vergara 3257",
+            "banderaDescripcion": "Supermercados DIA",
+            "localidad": "BUENOS AIRES",
+            "comercioRazonSocial": "DIA Argentina S.A",
+            "comercioId": 15
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.6031",
+            "lng": "-58.6354",
+            "sucursalNombre": "Hurlingham.",
+            "id": "164",
+            "sucursalTipo": "Supermercado",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 184,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Camino De Cintura Gobernador Vergara 3275",
+            "banderaDescripcion": "Vea",
+            "localidad": "HURLINGHAM",
+            "comercioRazonSocial": "Jumbo Retail Argentina S.A.",
+            "comercioId": 9
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.643977",
+            "lng": "-58.683783",
+            "sucursalNombre": "1007 - ITUIZANGO",
+            "id": "1007",
+            "sucursalTipo": "Autoservicio",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 182,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Cl Cnl.C.F.De Brandsen 1957",
+            "banderaDescripcion": "Supermercados DIA",
+            "localidad": "BUENOS AIRES",
+            "comercioRazonSocial": "DIA Argentina S.A",
+            "comercioId": 15
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.656602",
+            "lng": "-58.6486973",
+            "sucursalNombre": "1011 - MORON",
+            "id": "1011",
+            "sucursalTipo": "Autoservicio",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 182,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Cl Zeballos 3028",
+            "banderaDescripcion": "Supermercados DIA",
+            "localidad": "BUENOS AIRES",
+            "comercioRazonSocial": "DIA Argentina S.A",
+            "comercioId": 15
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.6502131",
+            "lng": "-58.6264209",
+            "sucursalNombre": "MORON ",
+            "id": "215",
+            "sucursalTipo": "Hipermercado",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "LLEVANDO 6 UNIDADES, PAGA 5 UNIDADES - DEL 06/10/2022 AL 31/10/2022 O HASTA AGOTAR STOCK  DE 9200 UNI",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": 152.83
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 183.4,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "LLEVANDO ESTE ARTICULO, 20% DE DTO CON BCO CIUDAD BS AS - DEL 24/10/2022 AL 24/10/2022 O HASTA AGOTAR STOCK  DE 9200 UNI",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": 146.72
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Gral. Juan Jose Valle 51",
+            "banderaDescripcion": "COTO CICSA",
+            "localidad": "Moron",
+            "comercioRazonSocial": "Coto Centro Integral de Comercialización S.A.",
+            "comercioId": 12
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.65330",
+            "lng": "-58.63020",
+            "sucursalNombre": "ACA MORON",
+            "id": "03002",
+            "sucursalTipo": "Autoservicio",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 225,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Av Mitre Y Guido 0",
+            "banderaDescripcion": "FULL",
+            "localidad": "MORON",
+            "comercioRazonSocial": "Operadora de Estaciones de Servicios S.A.",
+            "comercioId": 19
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.647419",
+            "lng": "-58.622425",
+            "sucursalNombre": "5318 - MORON",
+            "id": "5318",
+            "sucursalTipo": "Autoservicio",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 182,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Crisologo Larralde 992",
+            "banderaDescripcion": "Supermercados DIA",
+            "localidad": "BUENOS AIRES",
+            "comercioRazonSocial": "DIA Argentina S.A",
+            "comercioId": 15
+        },
+        {
+            "message": "La sucursal no contiene el producto.",
+            "comercioId": "2004",
+            "id": "2",
+            "banderaId": "1"
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.606224",
+            "lng": "-58.685786",
+            "sucursalNombre": "5401 - ITUIZANGO",
+            "id": "5401",
+            "sucursalTipo": "Autoservicio",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 182,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "De La Tradicion 185",
+            "banderaDescripcion": "Supermercados DIA",
+            "localidad": "BUENOS AIRES",
+            "comercioRazonSocial": "DIA Argentina S.A",
+            "comercioId": 15
+        },
+        {
+            "message": "La sucursal no contiene el producto.",
+            "comercioId": "2011",
+            "id": "74",
+            "banderaId": "1"
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.647756",
+            "lng": "-58.688217",
+            "sucursalNombre": "Ituzaingó",
+            "id": "36",
+            "sucursalTipo": "Hipermercado",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 182,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Av. Ing. Ratti 1860",
+            "banderaDescripcion": "Hipermercado Carrefour",
+            "localidad": "Ituzaingó",
+            "comercioRazonSocial": "INC S.A.",
+            "comercioId": 10
+        },
+        {
+            "banderaId": 3,
+            "unidad_venta": "",
+            "lat": "-34.648019",
+            "lng": "-58.620217",
+            "sucursalNombre": "Sarmiento 837",
+            "id": "442",
+            "sucursalTipo": "Supermercado",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 182,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Sarmiento 837",
+            "banderaDescripcion": "Express",
+            "localidad": "Morón",
+            "comercioRazonSocial": "INC S.A.",
+            "comercioId": 10
+        },
+        {
+            "banderaId": 1,
+            "unidad_venta": "",
+            "lat": "-34.6467621",
+            "lng": "-58.6184887",
+            "sucursalNombre": "98 - MORON",
+            "id": "98",
+            "sucursalTipo": "Autoservicio",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 182,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "Cl Independencia 173",
+            "banderaDescripcion": "Supermercados DIA",
+            "localidad": "BUENOS AIRES",
+            "comercioRazonSocial": "DIA Argentina S.A",
+            "comercioId": 15
+        },
+        {
+            "banderaId": 3,
+            "unidad_venta": "",
+            "lat": "-34.648760",
+            "lng": "-58.618429",
+            "sucursalNombre": "9 de Julio 46-50",
+            "id": "473",
+            "sucursalTipo": "Supermercado",
+            "provincia": "AR-B",
+            "preciosProducto": {
+                "promo1": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_unitario_con_iva": "",
+                "precioLista": 193,
+                "precio_unitario_sin_iva": "",
+                "promo2": {
+                    "descripcion": "",
+                    "precio_unitario_sin_iva": "",
+                    "precio_unitario_con_iva": "",
+                    "precio": ""
+                },
+                "precio_bulto_sin_iva": "",
+                "precio_bulto_con_iva": ""
+            },
+            "actualizadoHoy": true,
+            "direccion": "9 De Julio 46",
+            "banderaDescripcion": "Express",
+            "localidad": "Ramos Mejía",
+            "comercioRazonSocial": "INC S.A.",
+            "comercioId": 10
+        }
+    ]
+}

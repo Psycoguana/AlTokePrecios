@@ -1,0 +1,100 @@
+{
+    "status": 200,
+    "total": 35,
+    "maxLimitPermitido": 100,
+    "maxCantSucursalesPermitido": 50,
+    "productos": [
+        {
+            "marca": "COCA COLA",
+            "id": "7790895000430",
+            "precioMax": 375,
+            "precioMin": 151.46,
+            "nombre": "Coca Cola 1.5 Lt",
+            "presentacion": "1.5 lt",
+            "cantSucursalesDisponible": 11
+        },
+        {
+            "marca": "COCA COLA",
+            "id": "7790895007217",
+            "precioMax": 320,
+            "precioMin": 319.39,
+            "nombre": "Coca Cola 1.75 Lt",
+            "presentacion": "1.75 lt",
+            "cantSucursalesDisponible": 8
+        },
+        {
+            "marca": "COCA COLA",
+            "id": "7790895007057",
+            "precioMax": 940,
+            "precioMin": 828.92,
+            "nombre": "Coca Cola 2.25 Lt y Gaseosa Lima Limon Sprite 2.25 Lt",
+            "presentacion": "5.0 lt",
+            "cantSucursalesDisponible": 4
+        },
+        {
+            "marca": "COCA COLA",
+            "id": "7790895005794",
+            "precioMax": 484.17,
+            "precioMin": 470,
+            "nombre": "Coca Cola 2.5 Lt",
+            "presentacion": "2.5 lt",
+            "cantSucursalesDisponible": 17
+        },
+        {
+            "marca": "COCA COLA",
+            "id": "7790895006753",
+            "precioMax": 9.99,
+            "precioMin": 9.99,
+            "nombre": "Coca Cola 237 Cc",
+            "presentacion": "237.0 cc",
+            "cantSucursalesDisponible": 10
+        },
+        {
+            "marca": "COCA COLA",
+            "id": "7790895006418",
+            "precioMax": 530,
+            "precioMin": 530,
+            "nombre": "Coca Cola 3 Lt",
+            "presentacion": "3.0 lt",
+            "cantSucursalesDisponible": 10
+        },
+        {
+            "marca": "COCA COLA",
+            "id": "7790895000782",
+            "precioMax": 196,
+            "precioMin": 155,
+            "nombre": "Coca Cola 500 Cc",
+            "presentacion": "500.0 cc",
+            "cantSucursalesDisponible": 16
+        },
+        {
+            "marca": "COCA COLA",
+            "id": "7790895002748",
+            "precioMax": 118.99,
+            "precioMin": 58,
+            "nombre": "Coca Cola Lata 310 Cc 6 Un",
+            "presentacion": "6.0 un",
+            "cantSucursalesDisponible": 12
+        },
+        {
+            "marca": "COCA COLA",
+            "id": "7790895012440",
+            "precioMax": 319.39,
+            "precioMin": 312,
+            "nombre": "Coca Cola Light 1.75 Lt",
+            "presentacion": "1.75 lt",
+            "cantSucursalesDisponible": 18
+        },
+        {
+            "marca": "COCA MELLO",
+            "id": "7790895648489",
+            "precioMax": 150,
+            "precioMin": 150,
+            "nombre": "Cc Coca Marshmello Ed Lim 473 Cc",
+            "presentacion": "0.473 l",
+            "cantSucursalesDisponible": 15
+        }
+    ],
+    "totalPagina": 10,
+    "agrupables": []
+}
