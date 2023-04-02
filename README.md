@@ -1,35 +1,53 @@
-# Al Toke Precios
+# Al Toke Precios 🚀
 
 Al Toke Precios es una aplicación de búsqueda de precios para supermercarods argentinos. Es compatible con Android y fue escrita en React Native ⚛️.
 
 Utiliza la API de la página web [Precios Claros](https://www.preciosclaros.gob.ar/).
 
-⚠️ LA PÁGINA DE PRECIOS CLAROS SUELE ESTAR CAÍDA A LA MAÑANA. **ESTO CAUSA QUE LA APP TAMPOCO FUNCIONE** ⚠️
+> Warning
+> ⚠️ LA PÁGINA DE PRECIOS CLAROS SUELE ESTAR CAÍDA A LA MAÑANA. **ESTO CAUSA QUE LA APP TAMPOCO FUNCIONE** ⚠️
 
-## Características
+## ✨ Características
 
--   Búsqueda de productos por palabra o código de barras (EAN-13).
--   Búsqueda del producto en comercios cercanos.
--   Muestra ofertas en caso de existir.
+-   Buscá productos usando palabras clave o el código de barras EAN-13.
+-   Encuentra supermercados cercanos que venden el producto.
+-   Muestra ofertas si están disponibles.
 -   Muestra el precio mínimo y máximo de cada artículo.
 -   Distancia de cada supermercado.
--   Muestra el precio del artículo en diferentes sucursales de supermercados.
+-   Compara el precio del producto en diferentes sucursales de los supermercados.
 
 ### Permisos
 
-Ubicación: se requiere para encontrar supermercados cercanos.
-Cámara: se solicita en caso de querer hacer una búsqueda por código de barras.
+<ins>Ubicación:</ins> se requiere para encontrar supermercados cercanos.
 
-## Screenshots
+<ins>Cámara:</ins> se solicita en caso de querer hacer una búsqueda por código de barras.
 
-## Contribución
+## 🖼️ Screenshots
 
-Si desea contribuir a Al Toke Precios, ¡sería genial! Puede hacer lo siguiente:
+<img src='./imgs/0.jpg' width='50%'>
 
-Reportar errores o problemas en la sección de Issues del repositorio.
-Crear Pull Requests con correcciones o mejoras.
-Añadir nuevas funcionalidades.
+<img src='./imgs/1.jpg' width='50%'>
+<img src='./imgs/2.jpg' width='50%'>
+<img src='./imgs/3.jpg' width='50%'>
+<img src='./imgs/4.jpg' width='50%'>
+<img src='./imgs/5.jpg' width='50%'>
 
-## Licencia
+## 👥 Contribución
 
-Al Toke Precios está bajo la Licencia MIT. Puede ver el archivo de licencia completo en el repositorio.
+Si querés contribuir a Al Toke Precios estaría buenísimo. Podés hacer lo siguiente:
+
+-   Reportar errores o problemas en la sección de Issues.
+-   Crear Pull Requests con correcciones o mejoras.
+-   Proponer mejoras en la sección de Issues.
+
+## 💡 To-Do
+
+-   [] Mejorar UI.
+-   [] Agregar animaciones.
+-   [] Mejorar canasto de compras.
+-   [] Generar nuevas builds automáticamente.
+-   [] Agregar actualizador.
+
+## 📄 Licencia
+
+Al Toke Precios está bajo la Licencia GNU GPLv3.
