@@ -4,8 +4,8 @@ Al Toke Precios es una aplicación de búsqueda de precios para supermercarods a
 
 Utiliza la API de la página web [Precios Claros](https://www.preciosclaros.gob.ar/).
 
-> Warning
-> ⚠️ LA PÁGINA DE PRECIOS CLAROS SUELE ESTAR CAÍDA A LA MAÑANA. **ESTO CAUSA QUE LA APP TAMPOCO FUNCIONE** ⚠️
+> **Warning**
+LA PÁGINA DE PRECIOS CLAROS SUELE ESTAR CAÍDA A LA MAÑANA. **ESTO CAUSA QUE LA APP TAMPOCO FUNCIONE**
 
 ## ✨ Características
 
